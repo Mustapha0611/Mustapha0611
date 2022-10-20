@@ -19,5 +19,5 @@ Hi I'm Mustapha, frontend developer with Vuejs. I am available for internships a
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mustapha0611&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=musteey&label=profile%20view&pretty=false)](https://visitcount.itsvg.in)
 
