@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Mustapha, frontend developer with Vuejs. I am available for internships and also willing to help others
+Hi I'm Mustapha, frontend developer with Vuejs
 
 
 ## 🌐 Socials:
