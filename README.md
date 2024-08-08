@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Mustapha, frontend developer with Vuejs
+Hi I'm Mustapha, A Frontend developer with Vuejs
 
 
 ## 🌐 Socials:
